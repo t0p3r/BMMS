@@ -128,10 +128,10 @@ interface AuditLog {
 
 // ==================== DEMO ACCOUNTS ====================
 const DEMO_USERS: AuthUser[] = [
-  { username: 'manager', password: '123', displayName: 'Elena Cruz', role: 'Manager' },
-  { username: 'cashier', password: '123', displayName: 'Mark Bautista', role: 'Cashier' },
+  { username: 'manager', password: '123', displayName: 'Jhanet Abejuro', role: 'Manager' },
+  { username: 'cashier', password: '123', displayName: 'Cris Bautista', role: 'Cashier' },
   { username: 'collector', password: '123', displayName: 'Juan Reyes', role: 'Collector' },
-  { username: 'auditor', password: '123', displayName: 'Grace Lim', role: 'Auditor' },
+  { username: 'auditor', password: '123', displayName: 'Grace delos Reyes', role: 'Auditor' },
 ];
 
 // ==================== HELPERS ====================
